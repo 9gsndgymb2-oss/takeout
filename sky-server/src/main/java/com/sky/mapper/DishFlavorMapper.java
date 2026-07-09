@@ -8,5 +8,5 @@ import java.util.List;
 @Mapper
 public interface DishFlavorMapper {
 
-    void inserct(List<DishFlavor> flavors);
+    void insert(List<DishFlavor> flavors);
 }
